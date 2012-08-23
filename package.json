@@ -1,0 +1,22 @@
+{
+  "name": "micro-log",
+  "version": "0.0.0",
+  "description": "micro logger library",
+  "main": "lib/micro-log.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cho45/micro-log.js.git"
+  },
+  "keywords": [
+    "log",
+    "logger"
+  ],
+  "author": "cho45",
+  "license": "MIT"
+}
