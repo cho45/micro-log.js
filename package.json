@@ -1,6 +1,6 @@
 {
   "name": "micro-log",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "micro logger library",
   "main": "lib/micro-log.js",
   "directories": {
