@@ -1,6 +1,8 @@
 micro-log.js
 ============
 
+https://github.com/cho45/micro-log.js
+
 micro logger library for both browsers and node.js
 
 
@@ -25,3 +27,9 @@ log.LOG = function (message) {
 		'&msg=' + encodeURIComponent(message);
 };
 ```
+
+
+LICENSE
+=======
+
+MIT: http://cho45.github.com/mit-license
